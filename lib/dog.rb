@@ -7,8 +7,8 @@ class Dog
     @@all << @self
   end
 
-  def Dog.all
-    @@all
+  def self.all
+    puts @@all
   end
 
   def self.print_all
