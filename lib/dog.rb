@@ -20,4 +20,6 @@ class Dog
     end
   end
 
+  def save(name)
+
 end
