@@ -17,8 +17,8 @@ class Dog
     end
   end
 
-  def 
+  def
   end
-    
+
   end
 end
